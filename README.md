@@ -1,13 +1,6 @@
-## Hi there 👋
-
-
-# Ciao, sono 7eightDev 🚀
-
-Sviluppatore focalizzato sull'automazione del workflow e sull'integrazione tra Git e Project Management.
-
 # Hi, I'm 7eightDev 🚀
 
-I am a Senior Software Engineer dedicated to building scalable, robust web applications. My mission is to transform complexity into clean, testable, and maintainable code through architectural excellence.
+I am a Web Developer dedicated to building scalable, robust web applications. My mission is to transform complexity into clean, testable, and maintainable code through architectural excellence.
 
 ### 🎯 Focus & Methodologies
 * **Clean Architecture & DDD**: I design systems with a strict separation of concerns, ensuring long-term flexibility and business logic integrity.
