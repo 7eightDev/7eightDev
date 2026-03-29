@@ -32,6 +32,7 @@ I am a Web Developer dedicated to building scalable, robust web applications. My
 ---
 *"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
 
+<!--
 ## ⚙️ Tecnologie & Strumenti
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -39,7 +40,6 @@ I am a Web Developer dedicated to building scalable, robust web applications. My
 
 ---
 *Automating one issue at a time.*
-<!--
 **7eightDev/7eightDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
