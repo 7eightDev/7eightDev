@@ -1,15 +1,15 @@
-# Hi, I'm 7eightDev 🚀
+# Hi, I'm 7eightDev 
 
 I am a Web Developer dedicated to building scalable, robust web applications. My mission is to transform complexity into clean, testable, and maintainable code through architectural excellence.
 
-### 🎯 Focus & Methodologies
+### Focus & Methodologies
 * **Clean Architecture & DDD**: I design systems with a strict separation of concerns, ensuring long-term flexibility and business logic integrity.
 * **Modern Frontend**: Crafting high-performance, accessible user interfaces within the Next.js ecosystem.
 * **Quality First**: It’s not "done" until it's tested. Jest and TDD are integral parts of my development workflow.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -20,12 +20,12 @@ I am a Web Developer dedicated to building scalable, robust web applications. My
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 * **[7eight-issue-engine](https://github.com/7eightDev/7eight-issue-engine)**: A TypeScript-driven tool to automate Git workflows and GitHub Issue management.
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 * **GitHub**: [7eightDev](https://github.com/7eightDev)
 * **LinkedIn**: [/giuseppe-pesce-dev](http://www.linkedin.com/in/giuseppe-pesce-dev)
 
@@ -44,12 +44,12 @@ I am a Web Developer dedicated to building scalable, robust web applications. My
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I’m currently working on ...
+- I’m currently learning ...
+- I’m looking to collaborate on ...
+- I’m looking for help with ...
+- Ask me about ...
+- How to reach me: ...
+- Pronouns: ...
+- Fun fact: ...
 -->
