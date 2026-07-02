@@ -27,7 +27,7 @@ I am a Web Developer dedicated to building scalable, robust web applications. My
 
 ### 📫 Connect with me
 * **GitHub**: [7eightDev](https://github.com/7eightDev)
-* **LinkedIn**: [7eightdev@gmail.com]
+* **LinkedIn**: [/giuseppe-pesce-dev](http://www.linkedin.com/in/giuseppe-pesce-dev)
 
 ---
 *"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
